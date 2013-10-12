@@ -17,6 +17,7 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version:'3.8.1'
     testCompile group: 'org.kohsuke.stapler', name: 'stapler-jetty', version:'1.1'
  	compile fileTree(dir: "../github-api/target", includes: ['*.jar'])
+// 'org.kohsuke:github-api:1.44'
 }
 
 
